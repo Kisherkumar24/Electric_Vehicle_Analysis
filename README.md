@@ -23,7 +23,7 @@ KPI Requirement:
 
  3. Top 10  total vehicle by Make:
      - Visulaization : Bar chart
-     - Description: Highlight the top 10 EV manufacturer based on the total number of vehicles,providing insights into the market dominance of he specific brand.
+     - Description: Highlight the top 10 EV manufacturer based on the total number of vehicles,providing insights into the market dominance of the specific brand.
        
  4. Total Vehicle by CAFV eligibility:
      - Visualizaton: Pie chart/Donut chart
@@ -31,5 +31,5 @@ KPI Requirement:
        
  5. Top 10 total vehicle  by Models:
      -Tree Map
-     -Highight the top 10 EV models based on total number of vehicle,offering insight into consumer prerference and popular model in th market.
+     -Highight the top 10 EV models based on total number of vehicle,offering insight into consumer prerference and popular model in the market.
 
