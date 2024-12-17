@@ -31,5 +31,5 @@ KPI Requirement:
        
  5. Top 10 total vehicle  by Models:
      -Tree Map
-     -Highight the top 10 EV models based on total number of vehicle,offering insight into consumer pererference and popular model in th market.
+     -Highight the top 10 EV models based on total number of vehicle,offering insight into consumer prerference and popular model in th market.
 
