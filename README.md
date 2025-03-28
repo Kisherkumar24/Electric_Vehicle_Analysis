@@ -1,4 +1,6 @@
-# Electric_Vehicle_Analysis
+# Electric Vehicle Analysis
+<img width="575" alt="Dashboard Picture" src="https://github.com/user-attachments/assets/5e433c38-04ae-4664-9e72-e505bd29cd21" />
+
 
 Problem Statement:
 KPI Requirement:
